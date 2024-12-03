@@ -76,4 +76,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
 ## ✉️ Contato
 Se precisar de ajuda ou quiser sugerir melhorias, entre em contato:
 
-brunoh_123hotmail.com
+brunoh_123@hotmail.com
